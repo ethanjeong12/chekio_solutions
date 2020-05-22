@@ -1,2 +1,2 @@
 # chekio_solutions
-Solutions for checkio: python
+My solutions for checkio: python
